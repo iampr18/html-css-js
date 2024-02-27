@@ -1,0 +1,112 @@
+
+
+/* * {
+    border: 2px solid black;
+} */
+
+/* Header & Navigation Bar-------------------------------------------- */
+
+
+.nav-bar {
+    border: 2px solid blueviolet;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.page-heading{
+    margin: 10px;
+    font: 500;
+    font-size: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(135, 36, 56);
+}
+.nav-bar2 {
+    border: 2px solid brown;
+    height: 30px;
+    width: 800px;
+
+    padding: 10px;
+    margin: 5px;
+    
+    text-align: right;
+}
+.links {
+    text-decoration: none;
+    font:500px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 4px 10px;
+}
+
+ /* Main Section------------------------------------------------------- */
+
+.main {
+    height: 1050px;
+    border: 2px solid green;
+    margin: 5px 0px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.main-content {
+    border: 2px solid brown;
+    width: 800px;
+    margin: 10px;
+}
+
+.section {
+    border: 2px solid rgb(176, 134, 43);
+    margin: 2px;
+}
+
+.article {
+    border: 2px solid rgb(43, 96, 176);
+    margin: 2px;
+}
+
+ /* Side ---------------------------------------------------------- */
+
+ .side {
+    border: 2px solid brown;
+    width: 400px;
+    margin: 10px;
+
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+}
+
+#caption-vid {
+    border: 2px solid blueviolet;
+    border-radius: 5px;
+    padding: 5px;
+    text-align: center;
+    margin: 10px;
+    font-size: 20px;
+}
+
+#vid {
+    margin: 10px;
+}
+
+#caption-img {
+    border: 2px solid blueviolet;
+    text-align: center;
+}
+
+ /* Footer----------------------------------------------------------- */
+
+.ending {
+    border: 2px solid rgb(115, 165, 240);
+    height: 200px;
+    margin: 2px;
+}
+
+
+
