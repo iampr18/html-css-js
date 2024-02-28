@@ -1,0 +1,11 @@
+.quesBox {
+    padding: 15px;
+    margin: 5px;
+    background-color: antiquewhite;
+    border: 2px solid brown;
+    border-radius: 10px;
+  }
+  .ques {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+  }
